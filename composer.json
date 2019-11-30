@@ -54,6 +54,7 @@
     "require-dev": {
         "beyondcode/laravel-dump-server": "^1.0",
         "barryvdh/laravel-debugbar": "^3.0",
+        "barryvdh/laravel-ide-helper": "^2.4",
         "codedungeon/phpunit-result-printer": "^0.19.10",
         "filp/whoops": "^2.0",
         "friendsofphp/php-cs-fixer": "^2.10",
